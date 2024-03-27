@@ -1,4 +1,4 @@
-﻿# SUPER ELIT PRLMENI $E=mc^2$
+﻿# SUPER ELIT PELMENI $E=mc^2$
 ## Пельмени ур.2
 ### Пельмени ур.3
 #### Пельмени ур.4
